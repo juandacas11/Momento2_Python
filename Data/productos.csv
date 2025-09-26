@@ -1,0 +1,102 @@
+id,nombre,categoría,precio
+1,Pulsera Azul,Accesorios,$12
+2,Pulsera Roja,Accesorios,$15
+3,Escultura de Madera,Decoración,$40
+4,Pulsera Verde,Accesorios,$14
+5,Collar de Perlas,Accesorios,$25
+6,Aros de Plata,Accesorios,$18
+7,Escultura de Arcilla,Decoración,$35
+8,Vela de Lavanda,Hogar,$10
+9,Pulsera Negra,Accesorios,$16
+10,Collar de Cuero,Accesorios,$22
+11,Ambientador Floral,Hogar,$8
+12,Multiusos Natural,Hogar,$9
+13,Crema de Coco,Hogar,$12
+14,Escultura de Piedra,Decoración,$55
+15,Pulsera Rosa,Accesorios,$13
+16,Aros de Oro,Accesorios,$30
+17,Collar de Cuentas,Accesorios,$20
+18,Crema de Aloe Vera,Hogar,$11
+19,Pulsera Blanca,Accesorios,$12
+20,Escultura de Cerámica,Decoración,$45
+21,Vela de Vainilla,Hogar,$10
+22,Collar de Amatista,Accesorios,$28
+23,Pulsera Turquesa,Accesorios,$14
+24,Escultura de Metal,Decoración,$50
+25,Aros de Madera,Accesorios,$16
+26,Crema de Karité,Hogar,$13
+27,Pulsera Marrón,Accesorios,$12
+28,Ambientador Cítrico,Hogar,$9
+29,Collar de Cristal,Accesorios,$27
+30,Escultura Moderna,Decoración,$60
+31,Pulsera Plateada,Accesorios,$17
+32,Vela de Canela,Hogar,$11
+33,Aros con Piedras,Accesorios,$22
+34,Multiusos Lavanda,Hogar,$10
+35,Collar de Plata,Accesorios,$30
+36,Pulsera Animal Print,Accesorios,$15
+37,Escultura de Hierro,Decoración,$48
+38,Crema de Menta,Hogar,$12
+39,Aros Minimalistas,Accesorios,$20
+40,Vela Aromática Frutal,Hogar,$10
+41,Pulsera Étnica,Accesorios,$13
+42,Collar Bohemio,Accesorios,$24
+43,Escultura Tallada,Decoración,$52
+44,Crema de Rosas,Hogar,$14
+45,Ambientador Oceánico,Hogar,$9
+46,Pulsera Trenzada,Accesorios,$14
+47,Aros Clásicos,Accesorios,$19
+48,Collar de Cuentas de Madera,Accesorios,$21
+49,Escultura Abstracta,Decoración,$57
+50,Vela de Jazmín,Hogar,$11
+51,Pulsera Dorada,Accesorios,$18
+52,Collar con Dije,Accesorios,$26
+53,Aros Art Deco,Accesorios,$23
+54,Crema de Lavanda,Hogar,$13
+55,Multiusos Cítrico,Hogar,$9
+56,Escultura de Vidrio,Decoración,$54
+57,Pulsera Estilo Vintage,Accesorios,$15
+58,Aros de Fantasía,Accesorios,$17
+59,Collar Geométrico,Accesorios,$25
+60,Vela de Coco,Hogar,$10
+61,Escultura Rústica,Decoración,$49
+62,Pulsera de Cuero,Accesorios,$16
+63,Collar Minimalista,Accesorios,$22
+64,Crema Nutritiva,Hogar,$12
+65,Aros Largos,Accesorios,$19
+66,Ambientador Herbal,Hogar,$8
+67,Pulsera con Dijes,Accesorios,$14
+68,Escultura Contemporánea,Decoración,$53
+69,Collar Vintage,Accesorios,$26
+70,Vela de Madera,Hogar,$11
+71,Aros Cortos,Accesorios,$16
+72,Pulsera con Perlas,Accesorios,$18
+73,Multiusos Herbal,Hogar,$10
+74,Collar de Hilo,Accesorios,$20
+75,Escultura Clásica,Decoración,$47
+76,Crema de Almendras,Hogar,$13
+77,Vela de Sándalo,Hogar,$12
+78,Pulsera de Piedras,Accesorios,$17
+79,Aros Étnicos,Accesorios,$21
+80,Collar de Tela,Accesorios,$19
+81,Escultura de Cemento,Decoración,$58
+82,Pulsera Azul Oscuro,Accesorios,$15
+83,Vela Relajante,Hogar,$10
+84,Aros con Cristales,Accesorios,$22
+85,Collar de Madera,Accesorios,$23
+86,Crema Hidratante,Hogar,$12
+87,Ambientador de Vainilla,Hogar,$9
+88,Pulsera Concha Marina,Accesorios,$16
+89,Escultura de Arena,Decoración,$55
+90,Collar de Piedra Luna,Accesorios,$27
+91,Vela de Cedro,Hogar,$11
+92,Aros Florales,Accesorios,$20
+93,Pulsera Flor de Loto,Accesorios,$13
+94,Multiusos Floral,Hogar,$9
+95,Collar Arcoíris,Accesorios,$24
+96,Escultura Blanca,Decoración,$50
+97,Crema Reparadora,Hogar,$14
+98,Vela de Frutas Tropicales,Hogar,$10
+99,Aros Modernos,Accesorios,$18
+100,Pulsera con Nudos,Accesorios,$15
+
