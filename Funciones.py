@@ -45,5 +45,4 @@ def deleteSymbols(datos):
      return datos
 
 
-    
 
