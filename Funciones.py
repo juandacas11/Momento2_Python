@@ -34,7 +34,8 @@ def limpiar_datos(datos):
     return datos_limpios
 
 def estandarizar_datos(datos):
-    datos['nombre']=datos['nombre'].str.capitalize()
+    datos['nombre']=datos['nombre'].str.lower()
+    datos['nombre']=datos['nombre'].str.strip()
     print("Datos estandarizados exitosamente.")
     return datos
 
