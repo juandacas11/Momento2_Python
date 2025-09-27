@@ -29,5 +29,24 @@ print(datos_1_final.groupby('categoria')['precio'].count())
 
 
 
-print("-------------------Tabla Total------------------------")
-print(pd.merge(datos_3, datos_1_final, on='producto_id', how='inner'))
+ventas=pd.merge(datos_3, datos_1_final, on='producto_id', how='inner')
+
+conteo = ventas['producto_id'].value_counts()
+
+# Obtener el producto_id con más registros
+producto_mas_frecuente = conteo.idxmax()
+cantidad = conteo.max()
+
+print(f"El producto_id con más registros es {producto_mas_frecuente} con {cantidad} registros.")
+
+
+# Convertir la columna de fecha a tipo datetime (ajusta el nombre de la columna si es necesario)
+ventas['fecha'] = pd.to_datetime(ventas['fecha'])
+
+# Filtrar ventas antes del 1 de marzo
+ventas_filtradas = ventas[ventas['fecha'] < '2025-03-01']
+
+# Agrupar y contar por categoría
+conteo_por_categoria = ventas_filtradas.groupby('categoria').size()
+
+print(conteo_por_categoria)
