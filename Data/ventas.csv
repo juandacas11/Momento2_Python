@@ -1,4 +1,4 @@
-compra_id,producto_id,cliente,cantidad,fecha
+compra_id,producto_id,nombre,cantidad,fecha
 1,67,Laura,5,2025-03-20
 2,33,Patricia,2,2025-01-05
 3,8,Camila,4,2025-02-23

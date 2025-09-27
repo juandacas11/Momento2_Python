@@ -1,4 +1,4 @@
-id,nombre,categoría,precio
+producto_id,nombre,categoria,precio
 1,Pulsera Azul,Accesorios,$12
 2,Pulsera Roja,Accesorios,$15
 3,Escultura de Madera,Decoración,$40

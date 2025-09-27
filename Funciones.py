@@ -39,3 +39,11 @@ def estandarizar_datos(datos):
     print("Datos estandarizados exitosamente.")
     return datos
 
+def deleteSymbols(datos):
+     datos['precio']=datos['precio'].str.replace('$','').astype(float)
+     print("Función ejecutada correctamente")
+     return datos
+
+
+    
+
